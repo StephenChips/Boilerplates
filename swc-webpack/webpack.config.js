@@ -19,8 +19,5 @@ module.exports = {
     },
     resolve: {
         extensions: [".ts", ".js", ".json", ".wasm"]
-    },
-    optimization: {
-        minimize: false,
-    },
+    }
 }
